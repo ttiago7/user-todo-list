@@ -1,46 +1,92 @@
-# Getting Started with Create React App and Redux
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/ttiago7/user-todo-list">
+    <img src="images/2.JPG" alt="Logo" width="1200" >
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+  <h3 align="center">ToDo List with React an Redux</h3>
 
-## Available Scripts
+  <p align="center">
+    Project description: Todo list to see, create and update your todos 
+    <br />
+    <a href="#"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/ttiago7?tab=repositories">View All repositories</a>
+    ·
+    <a href="https://github.com/ttiago7/user-todo-list">View Frontend repo</a>
+  </p>
+</p>
 
-In the project directory, you can run:
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#built-with">Built With</a>      
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-### `npm start`
+### Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-   React
+-   Redux, redux-thunk and redux toolkit
+-   Axios
+-   bootstrap
+-   react-hook-form
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!-- GETTING STARTED -->
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Instructions on setting up this project locally. To get a local copy up and running follow these simple steps.
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   Node
+-   Git
+-   NPM or YARN
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repo
+    ```sh
+    git clone https://github.com/ttiago7/user-todo-list.git
+    ```
+2. Open the command line in this repo, into this execute next command
+    ```sh
+    npm install
+    npm start
+    ```
+3. To login enter user and password (usuario1...usuario10)
 
-### `npm run eject`
+<!-- USAGE EXAMPLES -->
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Usage
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. In your browser open http://localhost:3000/
+2. the client allow login to see your's todos
+   <img src="/images/1.JPG" alt="30 last rates"/>
+3. the client allow create new todo
+   <img src="/images/3.JPG" alt="30 last rates"/>
+4. Update state of a existing todo
+   <img src="/images/4.JPG" alt="30 last rates"/>
+5. Enter the quantity to display of todos per page
+   <img src="/images/5.JPG" alt="5 last rates"/>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- CONTACT -->
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contact
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Calizaya Santiago - [@linkedin-ttiago7](https://www.linkedin.com/in/ttiago7/) - c.ttiago7@gmail.com
