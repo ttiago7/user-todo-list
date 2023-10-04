@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ttiago7/user-todo-list">
-    <img src="images/2.JPG" alt="Logo" width="1200" >
+    <img src="images/2.jpg" alt="Logo" width="1200" >
   </a>
 
   <h3 align="center">ToDo List with React an Redux</h3>
@@ -77,13 +77,13 @@ Instructions on setting up this project locally. To get a local copy up and runn
 
 1. In your browser open http://localhost:3000/
 2. the client allow login to see your's todos
-   <img src="/images/1.JPG" alt="30 last rates"/>
+   <img src="/images/1.jpg" alt="30 last rates"/>
 3. the client allow create new todo
-   <img src="/images/3.JPG" alt="30 last rates"/>
+   <img src="/images/3.jpg" alt="30 last rates"/>
 4. Update state of a existing todo
-   <img src="/images/4.JPG" alt="30 last rates"/>
+   <img src="/images/4.jpg" alt="30 last rates"/>
 5. Enter the quantity to display of todos per page
-   <img src="/images/5.JPG" alt="5 last rates"/>
+   <img src="/images/5.jpg" alt="5 last rates"/>
 
 <!-- CONTACT -->
 
