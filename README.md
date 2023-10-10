@@ -5,7 +5,7 @@
     <img src="images/2.jpg" alt="Logo" width="1200" >
   </a>
 
-  <h3 align="center">ToDo List with React an Redux</h3>
+  <h3 align="center">ToDo List with React and Redux</h3>
 
   <p align="center">
     Project description: Todo list to see, create and update your todos 
